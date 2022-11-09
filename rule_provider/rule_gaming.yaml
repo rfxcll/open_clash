@@ -309,6 +309,12 @@ payload:
   - DOMAIN-SUFFIX,miniclip.com
 # > Mixer
   - DOMAIN-SUFFIX,mixer.com
+# > Netease
+  - DOMAIN-SUFFIX,neteasegames.com
+  - DOMAIN-SUFFIX,gph.easebar.com
+  - DOMAIN-SUFFIX,nstool.netease.com
+  - DOMAIN-KEYWORD,easebar
+  - DOMAIN-KEYWORD,netease
 # > NHL
   - DOMAIN-SUFFIX,nhl21-prod-app-01.ea.com
   - DOMAIN-SUFFIX,nhl21-prod-app-02.ea.com
