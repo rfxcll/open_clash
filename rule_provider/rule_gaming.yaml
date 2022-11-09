@@ -289,6 +289,18 @@ payload:
   - DOMAIN-SUFFIX,gogcdn.net
 # > Hay Day game
   - DOMAIN-SUFFIX,haydaygame.com
+# > HoYoverse / miHoYo
+  - DOMAIN-SUFFIX,genshinimpact.com
+  - DOMAIN-SUFFIX,honkaiimpact3.com
+  - DOMAIN-SUFFIX,honkaistarrail.com
+  - DOMAIN-SUFFIX,hoyo.link
+  - DOMAIN-SUFFIX,hoyolab.com
+  - DOMAIN-SUFFIX,hoyoverse.com
+  - DOMAIN-SUFFIX,n0vadesktop.com
+  - DOMAIN-SUFFIX,mihoyo.com
+  - DOMAIN-KEYWORD,genshinimpact
+  - DOMAIN-KEYWORD,honkaiimpact3
+  - DOMAIN-KEYWORD,mihoyo
 # > King Games
   - DOMAIN-SUFFIX,king.com
   - DOMAIN-SUFFIX,midasplayer.com
@@ -449,18 +461,6 @@ payload:
   - DOMAIN-SUFFIX,growtopia2.com
   - DOMAIN-SUFFIX,growtopiagame.com
   - DOMAIN-KEYWORD,growtopia
-# > Genshin Impact
-  - DOMAIN-SUFFIX,genshinimpact.com
-  - DOMAIN-SUFFIX,honkaiimpact3.com
-  - DOMAIN-SUFFIX,honkaistarrail.com
-  - DOMAIN-SUFFIX,hoyo.link
-  - DOMAIN-SUFFIX,hoyolab.com
-  - DOMAIN-SUFFIX,hoyoverse.com
-  - DOMAIN-SUFFIX,n0vadesktop.com
-  - DOMAIN-SUFFIX,mihoyo.com
-  - DOMAIN-KEYWORD,genshinimpact
-  - DOMAIN-KEYWORD,honkaiimpact3
-  - DOMAIN-KEYWORD,mihoyo
 # > Arknights
   - DOMAIN-SUFFIX,arknights.global
   - DOMAIN-SUFFIX,ark-us-static-online.yo-star.com
