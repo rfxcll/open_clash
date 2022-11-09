@@ -14,7 +14,11 @@ payload:
   - DOMAIN-SUFFIX,yuanzhanapp.com
   - DOMAIN-SUFFIX,aihelp.net
   # FreeFire
+  - DOMAIN-SUFFIX,connect.garenanow.com
+  - DOMAIN-SUFFIX,garenanow.com
   - DOMAIN-KEYWORD,freefire
+  - DOMAIN-KEYWORD,garenanow
+  - DOMAIN-KEYWORD,mobilegarena
   # PUBG Mobile
   - DOMAIN-SUFFIX,pubgmobile.com
   - DOMAIN-SUFFIX,igamecj.com
