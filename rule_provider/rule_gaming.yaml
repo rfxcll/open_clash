@@ -458,6 +458,9 @@ payload:
 # > Arknights
   - DOMAIN-SUFFIX,arknights.global
   - DOMAIN-SUFFIX,ark-us-static-online.yo-star.com
-# > Fall Guys
+# > Stumble Guys
   - DOMAIN-SUFFIX,api.stumbleguys.com
   - DOMAIN-SUFFIX,ns.exitgames.com
+# > PointBlank PC
+  - DOMAIN-SUFFIX,pointblank.id
+  - DOMAIN-SUFFIX,zepetto.com
