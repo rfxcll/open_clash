@@ -1,4 +1,4 @@
-#speedtest list websites
+# Speedtest Websites List
 # Behavior: classical
 
 payload:
@@ -17,8 +17,15 @@ payload:
   - DOMAIN-SUFFIX,speed.dler.io
   - DOMAIN-SUFFIX,openspeedtest.com
   - DOMAIN-SUFFIX,cachefly.net
+  - DOMAIN-SUFFIX,broadbandspeedchecker.co.uk
+  - DOMAIN-SUFFIX,loadingtest.com
+  - DOMAIN-SUFFIX,testmy.net
+  - DOMAIN-SUFFIX,proof.ovh.net
+  - DOMAIN-SUFFIX,bandwidthplace.com
   - DOMAIN-KEYWORD,speedtest
   - DOMAIN-KEYWORD,speedtestcustom
   - DOMAIN-KEYWORD,openspeedtest
+  - DOMAIN-KEYWORD,speedchecker
+  - DOMAIN-KEYWORD,iperf
   - DST-PORT,8080
 
