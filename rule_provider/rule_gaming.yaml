@@ -458,3 +458,6 @@ payload:
 # > Arknights
   - DOMAIN-SUFFIX,arknights.global
   - DOMAIN-SUFFIX,ark-us-static-online.yo-star.com
+# > Fall Guys
+  - DOMAIN-SUFFIX,api.stumbleguys.com
+  - DOMAIN-SUFFIX,ns.exitgames.com
