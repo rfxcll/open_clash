@@ -190,6 +190,7 @@ payload:
   - DOMAIN-SUFFIX,candycrushsodamobile.king.com
 # > CoC
   - DOMAIN-SUFFIX,clashofclans.com
+  - DOMAIN-SUFFIX,supercell.helpshift.com
 # > Clash Royal
   - DOMAIN-SUFFIX,clashroyale.com
   - DOMAIN-SUFFIX,clashroyaleapp.com
