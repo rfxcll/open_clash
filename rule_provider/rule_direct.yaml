@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,
   # Mulai baris ini kebawah bisa di edit/hapus
 # > Whatsapp direct
   - DOMAIN-SUFFIX,fna.whatsapp.net
@@ -21,11 +20,6 @@ payload:
   - DST-PORT,5228
   - DST-PORT,5288
   - DST-PORT,5242
-  - DST-PORT,5349
-  - DST-PORT,34784
   - DST-PORT,45395
   - DST-PORT,50318
   - DST-PORT,59234
-  - DST-PORT,12222
-  - DST-PORT,11112
-  - DST-PORT,25566
