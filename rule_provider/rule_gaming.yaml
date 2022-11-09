@@ -467,3 +467,9 @@ payload:
 # > Idol Party
   - DOMAIN-SUFFIX,changwutuan.com
   - DOMAIN-SUFFIX,170u.com
+# > Tower of Fantasy
+  - DOMAIN-SUFFIX,intlgame.com
+  - DOMAIN-SUFFIX,toweroffantasy-global.com
+  - DOMAIN-SUFFIX,centauriglobal.com
+  - DOMAIN-SUFFIX,api.globalgme.com
+  - DOMAIN-KEYWORD,intlgame
