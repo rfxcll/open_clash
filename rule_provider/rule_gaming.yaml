@@ -1,6 +1,6 @@
 payload:
   # Mulai baris ini kebawah bisa di edit/hapus
-  #MLBB
+  # MLBB
   - DOMAIN-SUFFIX,mobilelegends.com
   - DOMAIN-SUFFIX,mobilelegends.ca
   - DOMAIN-SUFFIX,mobilelegends.cn
@@ -161,12 +161,12 @@ payload:
   - IP-CIDR,209.206.47.0/24  
 # > Agar
   - DOMAIN-SUFFIX,agar.io
-# > ark
+# > Ark
   - DOMAIN-SUFFIX,arkdedicated.com
   - DOMAIN-SUFFIX,playark.com
-# > bigfishgames
+# > Bigfishgames
   - DOMAIN-SUFFIX,bigfishgames.com
-# > blizzard
+# > Blizzard
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,battlenet.com.cn
   - DOMAIN-SUFFIX,blizzard.cn
@@ -278,25 +278,25 @@ payload:
   - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-50.ea.com
   - DOMAIN-SUFFIX,fifa22.content.easports.com
   - DOMAIN-SUFFIX,fifa22.service.easports.com
-# > forgeofempires
+# > Forge of Empires
   - DOMAIN-SUFFIX,forgeofempires.com
-# > gameloft
+# > Gameloft
   - DOMAIN-SUFFIX,gameloft.com
 # > GoG
   - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gog.com
   - DOMAIN-SUFFIX,gogalaxy.com
   - DOMAIN-SUFFIX,gogcdn.net
-# > haydaygame
+# > Hay Day game
   - DOMAIN-SUFFIX,haydaygame.com
-# > king games
+# > King Games
   - DOMAIN-SUFFIX,king.com
   - DOMAIN-SUFFIX,midasplayer.com
-# > madden by EA
+# > Madden by EA
   - DOMAIN-SUFFIX,madden20.service.easports.com
   - DOMAIN-SUFFIX,madden21.service.easports.com
   - DOMAIN-SUFFIX,madden22.service.easports.com
-# > microsoft games
+# > Microsoft Games
   - DOMAIN-SUFFIX,microsoftcasualgames.com
   - DOMAIN-SUFFIX,msgamestudios.com
 # > Minecraft
@@ -434,7 +434,6 @@ payload:
   - DOMAIN-SUFFIX,awsglobalaccelerator.com
   - DOMAIN-KEYWORD,mgapex
   - DOMAIN-KEYWORD,devmgapex
-
 # > Konami
   - DOMAIN-SUFFIX,konami.net
   - DOMAIN-KEYWORD,konami
@@ -456,3 +455,6 @@ payload:
   - DOMAIN-KEYWORD,genshinimpact
   - DOMAIN-KEYWORD,honkaiimpact3
   - DOMAIN-KEYWORD,mihoyo
+# > Arknights
+  - DOMAIN-SUFFIX,arknights.global
+  - DOMAIN-SUFFIX,ark-us-static-online.yo-star.com
