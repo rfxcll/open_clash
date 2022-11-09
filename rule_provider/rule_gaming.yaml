@@ -13,12 +13,6 @@ payload:
   - DOMAIN-SUFFIX,youngjoygame.com
   - DOMAIN-SUFFIX,yuanzhanapp.com
   - DOMAIN-SUFFIX,aihelp.net
-  # FreeFire
-  - DOMAIN-SUFFIX,connect.garenanow.com
-  - DOMAIN-SUFFIX,garenanow.com
-  - DOMAIN-KEYWORD,freefire
-  - DOMAIN-KEYWORD,garenanow
-  - DOMAIN-KEYWORD,mobilegarena
   # PUBG Mobile
   - DOMAIN-SUFFIX,pubgmobile.com
   - DOMAIN-SUFFIX,igamecj.com
@@ -283,6 +277,12 @@ payload:
   - DOMAIN-SUFFIX,forgeofempires.com
 # > Gameloft
   - DOMAIN-SUFFIX,gameloft.com
+# > Garena (AoV, Free Fire, CoDM, Speed Drifter, Contra)
+  - DOMAIN-SUFFIX,connect.garenanow.com
+  - DOMAIN-SUFFIX,garenanow.com
+  - DOMAIN-KEYWORD,freefire
+  - DOMAIN-KEYWORD,garenanow
+  - DOMAIN-KEYWORD,mobilegarena
 # > GoG
   - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gog.com
