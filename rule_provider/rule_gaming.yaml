@@ -15,10 +15,15 @@ payload:
   - DOMAIN-SUFFIX,aihelp.net
   # FreeFire
   - DOMAIN-KEYWORD,freefire
-  # PUBG
+  # PUBG Mobile
   - DOMAIN-SUFFIX,pubgmobile.com
   - DOMAIN-SUFFIX,igamecj.com
-  - DOMAIN,file-igamecj.akamaized.net
+  - DOMAIN-SUFFIX,broker.amsoveasea.com
+  - DOMAIN-SUFFIX,sg.tdatamaster.com
+  - DOMAIN-SUFFIX,tencentgames.helpshift.com
+  - DOMAIN-SUFFIX,club.gpubgm.com
+  - DOMAIN-SUFFIX,gjacky.com
+  - DOMAIN-KEYWORD,igamecj
   - IP-CIDR,45.40.220.0/22
   - IP-CIDR,150.109.124.0/23
   - IP-CIDR,49.51.228.0/23
