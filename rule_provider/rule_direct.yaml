@@ -23,3 +23,6 @@ payload:
   - DST-PORT,45395
   - DST-PORT,50318
   - DST-PORT,59234
+# > DoH / DoT
+  - DOMAIN-KEYWORD,doh
+  - DST-PORT,853
