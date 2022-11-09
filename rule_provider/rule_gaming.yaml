@@ -464,3 +464,6 @@ payload:
 # > PointBlank PC
   - DOMAIN-SUFFIX,pointblank.id
   - DOMAIN-SUFFIX,zepetto.com
+# > Idol Party
+  - DOMAIN-SUFFIX,changwutuan.com
+  - DOMAIN-SUFFIX,170u.com
