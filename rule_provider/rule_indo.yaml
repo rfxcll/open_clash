@@ -1,7 +1,7 @@
 payload:
 # Mulai baris ini kebawah bisa di edit/hapus
-# &gt; LIST Streaming IP/Lokasi Wajib Indo
-# &gt; MOLA TV
+# LIST Streaming IP/Lokasi Wajib Indo
+# MOLA TV
 - DOMAIN-SUFFIX,mola.tv
 - DOMAIN-SUFFIX,ws.mola.tv
 - DOMAIN-SUFFIX,res.mola01.koicdn.com
@@ -9,7 +9,7 @@ payload:
 - DOMAIN-SUFFIX,api.sent.tv
 - DOMAIN-SUFFIX,cdn01.mola.tv
 - DOMAIN-SUFFIX,cdn02.mola.tv
-# &gt; Netflix
+# Netflix
 - DOMAIN-SUFFIX,flxvpn.net
 - DOMAIN-SUFFIX,netflix.ca
 - DOMAIN-SUFFIX,netflix.com
@@ -32,7 +32,7 @@ payload:
 - DOMAIN-SUFFIX,nflximg.net
 - DOMAIN-SUFFIX,nflxso.net
 - DOMAIN-SUFFIX,nflxvideo.net
-# &gt; Disney Plus
+# Disney Plus
 - DOMAIN-SUFFIX,disney-plus.net
 - DOMAIN-SUFFIX,disneyplus.com
 - DOMAIN-SUFFIX,disneyplus.disney.co.jp
@@ -45,7 +45,7 @@ payload:
 - DOMAIN-SUFFIX,api.hotstar.com
 - DOMAIN-KEYWORD,hotstar.com
 - DOMAIN-KEYWORD,hotstarext.com
-# &gt; Spotify
+# Spotify
 - DOMAIN-SUFFIX,pscdn.co
 - DOMAIN-SUFFIX,scdn.co
 - DOMAIN-SUFFIX,spoti.fi
@@ -59,7 +59,7 @@ payload:
 - DOMAIN-SUFFIX,spotilocal.com
 - DOMAIN-SUFFIX,tospotify.com
 - DOMAIN-KEYWORD,spotify
-# &gt; Vidio
+# Vidio
 - DOMAIN-SUFFIX,thumbor.prod.vid.id
 - DOMAIN-SUFFIX,static-playback.prod.vid.id
 - DOMAIN-SUFFIX,vid.id
@@ -79,7 +79,7 @@ payload:
 - DOMAIN-SUFFIX,secureswiftcontent.com
 - DOMAIN-SUFFIX,vidiocdn.com
 - DOMAIN-KEYWORD,vidio
-# &gt; VIU
+# VIU
 - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
 - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
 - DOMAIN-SUFFIX,nowe.com
@@ -94,30 +94,31 @@ payload:
 - DOMAIN-SUFFIX,vuclipi-a.akamaihd.net
 - DOMAIN-KEYWORD,vuclip
 - DOMAIN-KEYWORD,viu
-# &gt; Beinsport
+# Beinsport
 - DOMAIN-SUFFIX,connect-id.beinsports.com
 - DOMAIN-SUFFIX,beinsports.com
 - DOMAIN-SUFFIX,beiniz.biz
 - DOMAIN-KEYWORD,beinsports
 - DOMAIN-KEYWORD,bein
-# &gt; UseeTV
+# UseeTV
 - DOMAIN-SUFFIX,useetv.com
 - DOMAIN-KEYWORD,useetv.com
-# &gt; DensTV
+# DensTV
 - DOMAIN-SUFFIX,dens.tv
-# &gt; Mncnow
+# MNCnow
 - DOMAIN-SUFFIX,mncnow.id
 - DOMAIN-SUFFIX,mncplay.id
 - DOMAIN-KEYWORD,mncnow
 - DOMAIN-KEYWORD,mncplay
-# &gt; VisionPlus
+# VisionPlus
 - DOMAIN-SUFFIX,visionplus.id
 - DOMAIN-SUFFIX,dtaarjaj1diy9.cloudfront.net
 - DOMAIN-SUFFIX,mrpw.ptmnc01.verspective.net
 - DOMAIN-SUFFIX,rmp-data.com
+- DOMAIN-SUFFIX,mncnow.id
 - DOMAIN,stream-cdn.mncnow.id
 - DOMAIN-KEYWORD,visionplus
-# &gt; We TV
+# We TV
 - DOMAIN-SUFFIX,webrtcpunch.video.qq.com
 - DOMAIN-SUFFIX,api.weathercn.com
 - DOMAIN-SUFFIX,iflix-images.akamaized.net
@@ -132,10 +133,10 @@ payload:
 - DOMAIN-SUFFIX,wetvinfo.com
 - DOMAIN-KEYWORD,wetv
 - IP-CIDR,150.109.28.51/32,no-resolve
-# &gt; LiveTVGO
+# LiveTVGO
 - DOMAIN-SUFFIX,livetvgo.my.id
 - DOMAIN-KEYWORD,livetvgo
-# &gt; BILIBILI COMMICS
+# BILIBILI COMMICS
 - DOMAIN-SUFFIX,bilibilicomics.com
 - DOMAIN-SUFFIX,bilibili.com
 - DOMAIN-SUFFIX,hdslb.com
@@ -149,11 +150,11 @@ payload:
 - DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 - DOMAIN-KEYWORD,bstar
 - DOMAIN-KEYWORD,bilibili
-# &gt; Wiz smartgateway philips
+# Wiz smartgateway philips
 - DOMAIN-SUFFIX,wiz.world
 - DOMAIN,wizconnected.helpshift.com
 - DOMAIN-KEYWORD,wiz
-# &gt; MARKET PLACE
+# MARKET PLACE
 - DOMAIN-SUFFIX,tokopedia.com
 - DOMAIN-SUFFIX,shopee.co.id
 - DOMAIN-SUFFIX,shopeemobile.com
@@ -197,7 +198,7 @@ payload:
 - DOMAIN-KEYWORD,shopeepay
 - DOMAIN-KEYWORD,grab
 - DOMAIN-KEYWORD,grabtaxi
-# &gt; LIST Domain tLD Indo & GEOIP INDO
+# LIST Domain tLD Indo & GEOIP INDO
 - DOMAIN-KEYWORD,.id
 - DOMAIN-KEYWORD,co.id
 - DOMAIN-KEYWORD,ac.id
