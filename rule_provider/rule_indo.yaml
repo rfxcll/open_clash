@@ -128,18 +128,18 @@ payload:
 # LiveTVGO
 - DOMAIN-SUFFIX,livetvgo.my.id
 - DOMAIN-KEYWORD,livetvgo
-# BILIBILI COMMICS
-- DOMAIN-SUFFIX,bilibilicomics.com
-- DOMAIN-SUFFIX,bilibili.com
+# Bilibili
 - DOMAIN-SUFFIX,hdslb.com
-- DOMAIN-SUFFIX,bstarstatic.com
-- DOMAIN-SUFFIX,biliintl.com
-- DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
-- DOMAIN-SUFFIX,bilivideo.com
 - DOMAIN-SUFFIX,bilibili.tv
-- DOMAIN-SUFFIX,pic-bstarstatic.akamaized.net
+- DOMAIN-SUFFIX,bilibili.com
+- DOMAIN-SUFFIX,biliintl.com
+- DOMAIN-SUFFIX,bilivideo.com
+- DOMAIN-SUFFIX,bstarstatic.com
+- DOMAIN-SUFFIX,bilibilicomics.com
 - DOMAIN-SUFFIX,s-bstarstatic.akamaized.net
+- DOMAIN-SUFFIX,pic-bstarstatic.akamaized.net
 - DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
+- DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
 - DOMAIN-KEYWORD,bstar
 - DOMAIN-KEYWORD,bilibili
 # Wiz smartgateway philips
