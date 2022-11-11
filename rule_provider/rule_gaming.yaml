@@ -480,3 +480,7 @@ payload:
   - DOMAIN-SUFFIX,centauriglobal.com
   - DOMAIN-SUFFIX,api.globalgme.com
   - DOMAIN-KEYWORD,intlgame
+# > Auto Chess
+  - DOMAIN-SUFFIX,dragonest.com
+  - DOMAIN-SUFFIX,yeshen.com
+  - DOMAIN-SUFFIX,xingzheai.cn
