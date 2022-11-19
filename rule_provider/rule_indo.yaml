@@ -10,7 +10,6 @@ payload:
 - DOMAIN-SUFFIX,cdn01.mola.tv
 - DOMAIN-SUFFIX,cdn02.mola.tv
 # Netflix
-- DOMAIN-SUFFIX,flxvpn.net
 - DOMAIN-SUFFIX,netflix.ca
 - DOMAIN-SUFFIX,netflix.com
 - DOMAIN-SUFFIX,netflix.net
