@@ -13,8 +13,7 @@ payload:
 # > Douyin
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,douyincdn.com
-  - DOMAIN-SUFFIX,douyincdn.com.c.bytefcdn.com
-  - DOMAIN-SUFFIX,douyincdn.com.tcdnlive.com
+  - DOMAIN-SUFFIX,douyinliving.com
   - DOMAIN-SUFFIX,douyinpic.com
   - DOMAIN-SUFFIX,douyinstatic.com
   - DOMAIN-SUFFIX,douyinvod.com
@@ -177,15 +176,9 @@ payload:
   - DOMAIN-SUFFIX,sgsnssdk.com
   - DOMAIN-SUFFIX,tiktokcdn-in.com
   - DOMAIN-SUFFIX,tiktokcdn-us.com
-  - DOMAIN-SUFFIX,tiktokcdn.com.atomile.com
-  - DOMAIN-SUFFIX,tiktokcdn.com.c.bytetcdn.com
-  - DOMAIN-SUFFIX,tiktokcdn.com.c.worldfcdn.com
-  - DOMAIN-SUFFIX,tiktokcdn.com.rocket-cdn.com
   - DOMAIN-SUFFIX,tiktokd.org
-  - DOMAIN-SUFFIX,tiktokv.com.c.worldfcdn2.com
   - DOMAIN-SUFFIX,tlivecdn.com
   - DOMAIN-SUFFIX,ttlivecdn.com
-  - DOMAIN-SUFFIX,ttlivecdn.com.c.worldfcdn.com
   - DOMAIN-SUFFIX,ttoversea.net
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
 # > Tieba

@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,getblueshift.com
   - DOMAIN-SUFFIX,litix.io
   - DOMAIN-SUFFIX,uplynk.com
+
   # > AbemaTV
   - DOMAIN-SUFFIX,abema.io
   - DOMAIN-SUFFIX,abema.tv
