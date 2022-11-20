@@ -283,10 +283,13 @@ payload:
   - DOMAIN-KEYWORD,garenanow
   - DOMAIN-KEYWORD,mobilegarena
 # > GoG
-  - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gog.com
+  - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gogalaxy.com
   - DOMAIN-SUFFIX,gogcdn.net
+  - DOMAIN,gog.qtlglb.com
+  - DOMAIN-KEYWORD,gog-services
+  - DOMAIN-KEYWORD,gog-cdn
 # > Hay Day game
   - DOMAIN-SUFFIX,haydaygame.com
 # > HoYoverse / miHoYo
@@ -305,18 +308,18 @@ payload:
   - DOMAIN-SUFFIX,king.com
   - DOMAIN-SUFFIX,midasplayer.com
 # > Madden by EA
-  - DOMAIN-SUFFIX,madden20.service.easports.com
-  - DOMAIN-SUFFIX,madden21.service.easports.com
-  - DOMAIN-SUFFIX,madden22.service.easports.com
+  - DOMAIN,madden20.service.easports.com
+  - DOMAIN,madden21.service.easports.com
+  - DOMAIN,madden22.service.easports.com
 # > Microsoft Games
   - DOMAIN-SUFFIX,microsoftcasualgames.com
   - DOMAIN-SUFFIX,msgamestudios.com
 # > Minecraft
   - DOMAIN-SUFFIX,minecraft-services.net
   - DOMAIN-SUFFIX,minecraft.net
-  - DOMAIN-SUFFIX,minecraftprod.rtep.msgamestudios.com
   - DOMAIN-SUFFIX,minecraftservices.com
   - DOMAIN-SUFFIX,mojang.com
+  - DOMAIN,minecraftprod.rtep.msgamestudios.com
 # > Miniclip
   - DOMAIN-SUFFIX,miniclip.com
 # > Mixer
