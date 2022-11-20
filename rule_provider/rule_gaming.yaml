@@ -328,31 +328,33 @@ payload:
   - DOMAIN-KEYWORD,easebar
   - DOMAIN-KEYWORD,netease
 # > NHL
-  - DOMAIN-SUFFIX,nhl21-prod-app-01.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-02.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-03.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-04.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-05.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-06.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-07.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-08.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-09.ea.com
-  - DOMAIN-SUFFIX,nhl21.content.easports.com
-  - DOMAIN-SUFFIX,nhl21.service.easports.com
-  - DOMAIN-SUFFIX,nhl22.content.easports.com
-  - DOMAIN-SUFFIX,nhl22.service.easports.com
+  - DOMAIN,nhl21-prod-app-01.ea.com
+  - DOMAIN,nhl21-prod-app-02.ea.com
+  - DOMAIN,nhl21-prod-app-03.ea.com
+  - DOMAIN,nhl21-prod-app-04.ea.com
+  - DOMAIN,nhl21-prod-app-05.ea.com
+  - DOMAIN,nhl21-prod-app-06.ea.com
+  - DOMAIN,nhl21-prod-app-07.ea.com
+  - DOMAIN,nhl21-prod-app-08.ea.com
+  - DOMAIN,nhl21-prod-app-09.ea.com
+  - DOMAIN,nhl21.content.easports.com
+  - DOMAIN,nhl21.service.easports.com
+  - DOMAIN,nhl22.content.easports.com
+  - DOMAIN,nhl22.service.easports.com
 # > Pokemon Go
-  - DOMAIN,niantic.helpshift.com
   - DOMAIN-SUFFIX,nianticlabs.com
   - DOMAIN-SUFFIX,pokemongolive.com
+  - DOMAIN,niantic.helpshift.com
 # > Nintendo
   - DOMAIN-SUFFIX,nintendo-europe.com
+  - DOMAIN-SUFFIX,nintendo.at
   - DOMAIN-SUFFIX,nintendo.be
   - DOMAIN-SUFFIX,nintendo.co.jp
+  - DOMAIN-SUFFIX,nintendo.co.kr
   - DOMAIN-SUFFIX,nintendo.co.uk
   - DOMAIN-SUFFIX,nintendo.com
-  - DOMAIN-SUFFIX,nintendo.com.102.112.2o7.net
   - DOMAIN-SUFFIX,nintendo.com.au
+  - DOMAIN-SUFFIX,nintendo.com.hk
   - DOMAIN-SUFFIX,nintendo.de
   - DOMAIN-SUFFIX,nintendo.es
   - DOMAIN-SUFFIX,nintendo.eu
@@ -361,11 +363,29 @@ payload:
   - DOMAIN-SUFFIX,nintendo.jp
   - DOMAIN-SUFFIX,nintendo.net
   - DOMAIN-SUFFIX,nintendo.nl
+  - DOMAIN-SUFFIX,nintendo3ds.com
+  - DOMAIN-SUFFIX,nintendodsi.com
   - DOMAIN-SUFFIX,nintendoco.s.llnwi.net
+  - DOMAIN-SUFFIX,nintendonetwork.net
+  - DOMAIN-SUFFIX,nintendonyc.com
+  - DOMAIN-SUFFIX,nintendostore.com
   - DOMAIN-SUFFIX,nintendoswitch.cn
   - DOMAIN-SUFFIX,nintendowifi.net
+  - DOMAIN-SUFFIX,playnintendo.com
+  - DOMAIN-SUFFIX,ac-pocketcamp.com
+  - DOMAIN-SUFFIX,nintendowii.com
+  - DOMAIN-SUFFIX,wii-u.com
+  - DOMAIN-SUFFIX,wiifit.com
+  - DOMAIN-SUFFIX,wiifitu.com
+  - DOMAIN-SUFFIX,wiipartyu.com
+  - DOMAIN-SUFFIX,wiisports.com
+  - DOMAIN-SUFFIX,wiisportsresort.com
+  - DOMAIN-SUFFIX,wiiugamepad.com
+  - DOMAIN-SUFFIX,wiivc.net
+  - DOMAIN-SUFFIX,xenoblade.com
 # > OP
   - DOMAIN-SUFFIX,op.gg
+  - DOMAIN,opgg-static.akamaized.net
 # > Origin
   - DOMAIN-SUFFIX,dawngate.com
   - DOMAIN-SUFFIX,eastore.com
@@ -383,6 +403,7 @@ payload:
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+  - DOMAIN-KEYWORD,playstation
 # > Riot Games
   - DOMAIN-SUFFIX,leagueoflegends.com
   - DOMAIN-SUFFIX,lolstatic.com
