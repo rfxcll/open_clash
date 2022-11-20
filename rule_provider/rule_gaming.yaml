@@ -18,8 +18,8 @@ payload:
   - DOMAIN-SUFFIX,igamecj.com
   - DOMAIN-SUFFIX,broker.amsoveasea.com
   - DOMAIN-SUFFIX,sg.tdatamaster.com
-  - DOMAIN-SUFFIX,tencentgames.helpshift.com
-  - DOMAIN-SUFFIX,club.gpubgm.com
+  - DOMAIN,tencentgames.helpshift.com
+  - DOMAIN,club.gpubgm.com
   - DOMAIN-SUFFIX,gjacky.com
   - DOMAIN-KEYWORD,igamecj
   - IP-CIDR,45.40.220.0/22
@@ -184,7 +184,6 @@ payload:
   - DOMAIN-SUFFIX,candycrushsodamobile.king.com
 # > CoC
   - DOMAIN-SUFFIX,clashofclans.com
-  - DOMAIN-SUFFIX,supercell.helpshift.com
 # > Clash Royal
   - DOMAIN-SUFFIX,clashroyale.com
   - DOMAIN-SUFFIX,clashroyaleapp.com
@@ -278,7 +277,7 @@ payload:
 # > Gameloft
   - DOMAIN-SUFFIX,gameloft.com
 # > Garena (AoV, Free Fire, CoDM, Speed Drifter, Contra)
-  - DOMAIN-SUFFIX,connect.garenanow.com
+  - DOMAIN,connect.garenanow.com
   - DOMAIN-SUFFIX,garenanow.com
   - DOMAIN-KEYWORD,freefire
   - DOMAIN-KEYWORD,garenanow
@@ -343,7 +342,7 @@ payload:
   - DOMAIN-SUFFIX,nhl22.content.easports.com
   - DOMAIN-SUFFIX,nhl22.service.easports.com
 # > Pokemon Go
-  - DOMAIN-SUFFIX,niantic.helpshift.com
+  - DOMAIN,niantic.helpshift.com
   - DOMAIN-SUFFIX,nianticlabs.com
   - DOMAIN-SUFFIX,pokemongolive.com
 # > Nintendo
@@ -368,10 +367,18 @@ payload:
 # > OP
   - DOMAIN-SUFFIX,op.gg
 # > Origin
+  - DOMAIN-SUFFIX,dawngate.com
+  - DOMAIN-SUFFIX,eastore.com
+  - DOMAIN-SUFFIX,lordofultima.com
   - DOMAIN-SUFFIX,origin.com
+  - DOMAIN-SUFFIX,origin.tv
+  - DOMAIN,cloudsync-prod.s3.amazonaws.com
+  - DOMAIN,origin-a.akamaihd.net
+  - DOMAIN,rtm.tnt-ea.com
+  - DOMAIN,ssl-lvlt.cdn.ea.com
 # > Playrix
   - DOMAIN-SUFFIX,playrix.com
-  - DOMAIN-SUFFIX,playrix.helpshift.com
+  - DOMAIN,playrix.helpshift.com
 # > Playstation
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
@@ -392,18 +399,16 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamgames.com
-  - DOMAIN-SUFFIX,steampipe.akamaized.net
+  - DOMAIN,steampipe.akamaized.net
   - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steampowered.com.8686c.com
   - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,steamstatic.com.8686c.com
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,valve.net
   - DOMAIN-SUFFIX,valvesoftware.com
 # > Supercell
   - DOMAIN-SUFFIX,supercell.com
-  - DOMAIN-SUFFIX,supercell.helpshift.com
   - DOMAIN-SUFFIX,supercell.net
+  - DOMAIN,supercell.helpshift.com
 # > take2games
   - DOMAIN-SUFFIX,take2games.com
 # > Ubisoft
@@ -429,34 +434,21 @@ payload:
   - DOMAIN-SUFFIX,zynga.my
   - DOMAIN-SUFFIX,zyngagames.com
   - DOMAIN-SUFFIX,zyngapoker.com
-  - DOMAIN-SUFFIX,zyngasupport.helpshift.com
+  - DOMAIN,zyngasupport.helpshift.com
 # > Bleach ES
   - DOMAIN-SUFFIX,vsplay.com
   - DOMAIN-SUFFIX,efun.com
   - DOMAIN-SUFFIX,efunen.com
 # > Apex Legends Mobile
-  - DOMAIN-SUFFIX,tdm.mgapex.com
-  - DOMAIN-SUFFIX,download.2.707369824.dmp.mgapex.com
-  - DOMAIN-SUFFIX,bugly-android.mgapex.com
-  - DOMAIN-SUFFIX,itop.mgapex.com
-  - DOMAIN-SUFFIX,tgpa.mgapex.com
-  - DOMAIN-SUFFIX,cloudctrl.mgapex.com
-  - DOMAIN-SUFFIX,file.mgapex.com
-  - DOMAIN-SUFFIX,ire.csoversea.mgapex.com
-  - DOMAIN-SUFFIX,voice-sg.mgapex.com
-  - DOMAIN-SUFFIX,pay.mgapex.com
-  - DOMAIN-SUFFIX,lobby.mgapex.com
-  - DOMAIN-SUFFIX,apex.go.sonobi.com
   - DOMAIN-SUFFIX,mgapex.com
   - DOMAIN-SUFFIX,devmgapex.com
-  - DOMAIN-SUFFIX,listdl.com
   - DOMAIN-SUFFIX,awsglobalaccelerator.com
   - DOMAIN-KEYWORD,mgapex
   - DOMAIN-KEYWORD,devmgapex
 # > Konami
   - DOMAIN-SUFFIX,konami.net
-  - DOMAIN-KEYWORD,konami
   - DOMAIN-SUFFIX,applilink.jp
+  - DOMAIN-KEYWORD,konami
 # > Growtopia
   - DOMAIN-SUFFIX,growtopia1.com
   - DOMAIN-SUFFIX,growtopia2.com
@@ -464,10 +456,11 @@ payload:
   - DOMAIN-KEYWORD,growtopia
 # > Arknights
   - DOMAIN-SUFFIX,arknights.global
-  - DOMAIN-SUFFIX,ark-us-static-online.yo-star.com
+  - DOMAIN-SUFFIX,yo-star.com
 # > Stumble Guys
-  - DOMAIN-SUFFIX,api.stumbleguys.com
-  - DOMAIN-SUFFIX,ns.exitgames.com
+  - DOMAIN-SUFFIX,kitkagames.com
+  - DOMAIN,api.stumbleguys.com
+  - DOMAIN,ns.exitgames.com
 # > PointBlank PC
   - DOMAIN-SUFFIX,pointblank.id
   - DOMAIN-SUFFIX,zepetto.com
