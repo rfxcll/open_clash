@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,douyinpic.com
   - DOMAIN-SUFFIX,douyinstatic.com
   - DOMAIN-SUFFIX,douyinvod.com
-  - DOMAIN-SUFFIX,lf6-douyin-ckv-tos.pstatp.com
 # > Facebook
   - DOMAIN-SUFFIX,accountkit.com
   - DOMAIN-SUFFIX,atdmt.com
@@ -30,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,facebookmail.com
   - DOMAIN-SUFFIX,fb.com
   - DOMAIN-SUFFIX,fb.gg
+  - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fb.watch
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,fbe2e.com
@@ -40,7 +40,7 @@ payload:
   - DOMAIN-SUFFIX,m-freeway.com
   - DOMAIN-SUFFIX,parse.com
   - DOMAIN-SUFFIX,wit.ai
-  - DOMAIN-SUFFIX,fna.fbcdn.net
+  - DOMAIN,fbcdn-a.akamaihd.net
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
 # > Facebook IP-CIDR
