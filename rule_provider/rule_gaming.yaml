@@ -17,10 +17,10 @@ payload:
   - DOMAIN-SUFFIX,pubgmobile.com
   - DOMAIN-SUFFIX,igamecj.com
   - DOMAIN-SUFFIX,broker.amsoveasea.com
-  - DOMAIN-SUFFIX,sg.tdatamaster.com
-  - DOMAIN,tencentgames.helpshift.com
-  - DOMAIN,club.gpubgm.com
   - DOMAIN-SUFFIX,gjacky.com
+  - DOMAIN-SUFFIX,sg.tdatamaster.com
+  - DOMAIN,file-igamecj.akamaized.net
+  - DOMAIN,tencentgames.helpshift.com
   - DOMAIN-KEYWORD,igamecj
   - IP-CIDR,45.40.220.0/22
   - IP-CIDR,150.109.124.0/23
@@ -31,7 +31,9 @@ payload:
   - DOMAIN-SUFFIX,rbxcdn.com
   - DOMAIN-SUFFIX,rbxtrk.com
   - DOMAIN-SUFFIX,roblox.plus
-  - DOMAIN-SUFFIX,robloxinc.s.llnwi.net
+  - DOMAIN,robloxinc.s.llnwi.net
+  - DOMAIN,6850.f.akamaiedge.net
+  - DOMAIN,roblox.ssl.zendesk.com
   - IP-CIDR,103.140.28.0/23
   - IP-CIDR,128.116.0.0/17
   - IP-CIDR,141.193.3.0/24
@@ -168,7 +170,6 @@ payload:
   - DOMAIN-SUFFIX,blizzardgames.cn
   - DOMAIN-SUFFIX,blz-contentstack.com
   - DOMAIN-SUFFIX,blzstatic.cn
-  - DOMAIN-SUFFIX,bnet.163.com
   - DOMAIN-SUFFIX,bnet.cn
 # > 2kGaming
   - DOMAIN-SUFFIX,2k.com
@@ -178,10 +179,11 @@ payload:
   - DOMAIN-SUFFIX,callofduty.com
   - DOMAIN-SUFFIX,callofdutyleague.com
 # > Candy Crush
-  - DOMAIN-SUFFIX,candycrush.king.com
-  - DOMAIN-SUFFIX,candycrush4.king.com
-  - DOMAIN-SUFFIX,candycrushsoda.king.com
-  - DOMAIN-SUFFIX,candycrushsodamobile.king.com
+  - DOMAIN-SUFFIX,king.com
+  - DOMAIN,candycrush.king.com
+  - DOMAIN,candycrush4.king.com
+  - DOMAIN,candycrushsoda.king.com
+  - DOMAIN,candycrushsodamobile.king.com
 # > CoC
   - DOMAIN-SUFFIX,clashofclans.com
 # > Clash Royal
