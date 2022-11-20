@@ -193,95 +193,34 @@ payload:
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,eamobile.com
   - DOMAIN-SUFFIX,easports.com
-  - DOMAIN-SUFFIX,friends-prod.us-east-1.elasticbeanstalk.com
   - DOMAIN-SUFFIX,nearpolar.com
   - DOMAIN-SUFFIX,swtor.com
   - DOMAIN-SUFFIX,tnt-ea.com
+  - DOMAIN,friends-prod.us-east-1.elasticbeanstalk.com
 # > Epic Games
   - DOMAIN-SUFFIX,epicgames.com
   - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,epicgames.net
   - DOMAIN-SUFFIX,unrealengine.com
 # > FIFA
-  - DOMAIN-SUFFIX,fifa-online.easports.com
-  - DOMAIN-SUFFIX,fifa.stats.gameservices.ea.com
-  - DOMAIN-SUFFIX,fifa15.content.easports.com
-  - DOMAIN-SUFFIX,fifa18.content.easports.com
-  - DOMAIN-SUFFIX,fifa19.content.easports.com
-  - DOMAIN-SUFFIX,fifa19.service.easports.com
-  - DOMAIN-SUFFIX,fifa20.content.easports.com
-  - DOMAIN-SUFFIX,fifa20.service.easports.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-16.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-17.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-18.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-19.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-22.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-23.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-24.ea.com
-  - DOMAIN-SUFFIX,fifa21.content.easports.com
-  - DOMAIN-SUFFIX,fifa21.service.easports.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-01.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-02.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-03.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-04.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-05.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-06.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-07.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-08.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-09.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-10.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-11.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-12.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-13.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-14.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-15.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-16.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-17.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-18.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-19.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-20.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-21.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-22.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-23.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-24.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-25.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-26.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-27.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-28.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-29.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-30.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-31.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-32.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-33.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-34.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-35.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-36.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-37.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-38.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-39.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-40.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-41.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-42.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-43.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-44.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-45.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-46.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-47.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-48.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-49.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-50.ea.com
-  - DOMAIN-SUFFIX,fifa22.content.easports.com
-  - DOMAIN-SUFFIX,fifa22.service.easports.com
+  - DOMAIN,fifa-online.easports.com
+  - DOMAIN,fifa.stats.gameservices.ea.com
+  - DOMAIN-SUFFIX,content.easports.com
+  - DOMAIN-SUFFIX,service.easports.com
+  - DOMAIN-KEYWORD,-prod-gen4-app-
+  - DOMAIN-KEYWORD,-prd-mp-blaze-
+  - DOMAIN-KEYWORD,fifa23
 # > Forge of Empires
   - DOMAIN-SUFFIX,forgeofempires.com
 # > Gameloft
   - DOMAIN-SUFFIX,gameloft.com
 # > Garena (AoV, Free Fire, CoDM, Speed Drifter, Contra)
-  - DOMAIN,connect.garenanow.com
   - DOMAIN-SUFFIX,garenanow.com
+  - DOMAIN,avatargarenanow-a.akamaihd.net
+  - DOMAIN,cdngarenanow-a.akamaihd.net
+  - DOMAIN,dlgarenanow-a.akamaihd.net
+  - DOMAIN,dlmobilegarena-a.akamaihd.net
   - DOMAIN-KEYWORD,freefire
-  - DOMAIN-KEYWORD,garenanow
-  - DOMAIN-KEYWORD,mobilegarena
 # > GoG
   - DOMAIN-SUFFIX,gog.com
   - DOMAIN-SUFFIX,gog-statics.com
