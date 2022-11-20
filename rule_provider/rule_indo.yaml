@@ -39,11 +39,12 @@ payload:
 - DOMAIN-SUFFIX,dssott.com
 - DOMAIN-SUFFIX,starott.com
 - DOMAIN-SUFFIX,hotstar.com
+- DOMAIN-SUFFIX,hotstar-cdn.net
 - DOMAIN-SUFFIX,hotstarext.com
+- DOMAIN,hsprepack.akamaized.net
 - DOMAIN,disneyplus.disney.co.jp
 - DOMAIN,search-api-disney.bamgrid.com
-- DOMAIN-KEYWORD,hotstar
-- DOMAIN-KEYWORD,hotstarext
+- DOMAIN-KEYWORD,hses
 # Spotify
 - DOMAIN-SUFFIX,byspotify.com
 - DOMAIN-SUFFIX,pscdn.co
