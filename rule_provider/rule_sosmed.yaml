@@ -109,8 +109,15 @@ payload:
 # > Instagram
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,ig.me
+  - DOMAIN-SUFFIX,igcdn.com
+  - DOMAIN-SUFFIX,igsonar.com
+  - DOMAIN-SUFFIX,igtv.com
   - DOMAIN-SUFFIX,instagram.com
-  - DOMAIN-SUFFIX,instagram.c10r.facebook.com
+  - DOMAIN-SUFFIX,instanttelegram.com
+  - DOMAIN-SUFFIX,instaplayer.net
+  - DOMAIN-SUFFIX,instastyle.tv
+  - DOMAIN-KEYWORD,insta
+  - DOMAIN-KEYWORD,stagram
 # > Kwai
   - DOMAIN-SUFFIX,kwai-pro.com
   - DOMAIN-SUFFIX,kwai.com
