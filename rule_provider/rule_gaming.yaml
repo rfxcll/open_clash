@@ -13,12 +13,16 @@ payload:
   - DOMAIN-SUFFIX,youngjoygame.com
   - DOMAIN-SUFFIX,yuanzhanapp.com
   - DOMAIN-SUFFIX,aihelp.net
+  # FreeFire
+  - DOMAIN-SUFFIX,freefiremobile.com
+  - DOMAIN-KEYWORD,freefire
+  - DOMAIN-KEYWORD,ffmax
   # PUBG Mobile
   - DOMAIN-SUFFIX,pubgmobile.com
   - DOMAIN-SUFFIX,igamecj.com
   - DOMAIN-SUFFIX,broker.amsoveasea.com
   - DOMAIN-SUFFIX,gjacky.com
-  - DOMAIN-SUFFIX,sg.tdatamaster.com
+  - DOMAIN,sg.tdatamaster.com
   - DOMAIN,file-igamecj.akamaized.net
   - DOMAIN,tencentgames.helpshift.com
   - DOMAIN-KEYWORD,igamecj
@@ -179,7 +183,6 @@ payload:
   - DOMAIN-SUFFIX,callofduty.com
   - DOMAIN-SUFFIX,callofdutyleague.com
 # > Candy Crush
-  - DOMAIN-SUFFIX,king.com
   - DOMAIN,candycrush.king.com
   - DOMAIN,candycrush4.king.com
   - DOMAIN,candycrushsoda.king.com
@@ -198,6 +201,8 @@ payload:
   - DOMAIN-SUFFIX,nearpolar.com
   - DOMAIN-SUFFIX,swtor.com
   - DOMAIN-SUFFIX,tnt-ea.com
+  - DOMAIN-SUFFIX,content.easports.com
+  - DOMAIN-SUFFIX,service.easports.com
   - DOMAIN,friends-prod.us-east-1.elasticbeanstalk.com
 # > Epic Games
   - DOMAIN-SUFFIX,epicgames.com
@@ -207,8 +212,6 @@ payload:
 # > FIFA
   - DOMAIN,fifa-online.easports.com
   - DOMAIN,fifa.stats.gameservices.ea.com
-  - DOMAIN-SUFFIX,content.easports.com
-  - DOMAIN-SUFFIX,service.easports.com
   - DOMAIN-KEYWORD,-prod-gen4-app-
   - DOMAIN-KEYWORD,-prd-mp-blaze-
   - DOMAIN-KEYWORD,fifa23
@@ -216,13 +219,12 @@ payload:
   - DOMAIN-SUFFIX,forgeofempires.com
 # > Gameloft
   - DOMAIN-SUFFIX,gameloft.com
-# > Garena (AoV, Free Fire, CoDM, Speed Drifter, Contra)
-  - DOMAIN-SUFFIX,garenanow.com
-  - DOMAIN,avatargarenanow-a.akamaihd.net
-  - DOMAIN,cdngarenanow-a.akamaihd.net
-  - DOMAIN,dlgarenanow-a.akamaihd.net
-  - DOMAIN,dlmobilegarena-a.akamaihd.net
-  - DOMAIN-KEYWORD,freefire
+# > Garena (Support)
+  - DOMAIN,sg.voice.gcloudcs.com
+  - DOMAIN,vn.voice.gcloudcs.com
+  - DOMAIN-KEYWORD,gcloudcs
+  - DOMAIN-KEYWORD,gcloudsdk
+  - DOMAIN-KEYWORD,nagcloudcs
 # > GoG
   - DOMAIN-SUFFIX,gog.com
   - DOMAIN-SUFFIX,gog-statics.com
@@ -248,10 +250,6 @@ payload:
 # > King Games
   - DOMAIN-SUFFIX,king.com
   - DOMAIN-SUFFIX,midasplayer.com
-# > Madden by EA
-  - DOMAIN,madden20.service.easports.com
-  - DOMAIN,madden21.service.easports.com
-  - DOMAIN,madden22.service.easports.com
 # > Microsoft Games
   - DOMAIN-SUFFIX,microsoftcasualgames.com
   - DOMAIN-SUFFIX,msgamestudios.com
@@ -290,20 +288,6 @@ payload:
   - DOMAIN-SUFFIX,nstool.netease.com
   - DOMAIN-KEYWORD,easebar
   - DOMAIN-KEYWORD,netease
-# > NHL
-  - DOMAIN,nhl21-prod-app-01.ea.com
-  - DOMAIN,nhl21-prod-app-02.ea.com
-  - DOMAIN,nhl21-prod-app-03.ea.com
-  - DOMAIN,nhl21-prod-app-04.ea.com
-  - DOMAIN,nhl21-prod-app-05.ea.com
-  - DOMAIN,nhl21-prod-app-06.ea.com
-  - DOMAIN,nhl21-prod-app-07.ea.com
-  - DOMAIN,nhl21-prod-app-08.ea.com
-  - DOMAIN,nhl21-prod-app-09.ea.com
-  - DOMAIN,nhl21.content.easports.com
-  - DOMAIN,nhl21.service.easports.com
-  - DOMAIN,nhl22.content.easports.com
-  - DOMAIN,nhl22.service.easports.com
 # > Pokemon Go
   - DOMAIN-SUFFIX,nianticlabs.com
   - DOMAIN-SUFFIX,pokemongolive.com
@@ -413,6 +397,14 @@ payload:
   - DOMAIN-SUFFIX,xboxab.net
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,xboxservices.com
+# > X.D. Global
+  - DOMAIN-SUFFIX,xdg.com
+# > Yongshi Games
+  - DOMAIN-SUFFIX,yongshigame.com
+# > YoStar
+  - DOMAIN-SUFFIX,yo-star.com
+  - DOMAIN-SUFFIX,yostar.store
+  - DOMAIN-SUFFIX,yostarplat.com
 # > Zynga
   - DOMAIN-SUFFIX,zynga.com
   - DOMAIN-SUFFIX,zynga.my
@@ -438,26 +430,46 @@ payload:
   - DOMAIN-SUFFIX,growtopia2.com
   - DOMAIN-SUFFIX,growtopiagame.com
   - DOMAIN-KEYWORD,growtopia
-# > Arknights
+# > Arknights (com.YoStarEN.Arknights)
   - DOMAIN-SUFFIX,arknights.global
-  - DOMAIN-SUFFIX,yo-star.com
-# > Stumble Guys
+# > Stumble Guys (com.kitkagames.fallbuddies)
   - DOMAIN-SUFFIX,kitkagames.com
-  - DOMAIN,api.stumbleguys.com
-  - DOMAIN,ns.exitgames.com
+  - DOMAIN-SUFFIX,stumbleguys.com
+  - DOMAIN-SUFFIX,exitgames.com
 # > PointBlank PC
   - DOMAIN-SUFFIX,pointblank.id
   - DOMAIN-SUFFIX,zepetto.com
 # > Idol Party
   - DOMAIN-SUFFIX,changwutuan.com
   - DOMAIN-SUFFIX,170u.com
-# > Tower of Fantasy
+# > Tower of Fantasy (com.levelinfinite.hotta.gp)
   - DOMAIN-SUFFIX,intlgame.com
   - DOMAIN-SUFFIX,toweroffantasy-global.com
   - DOMAIN-SUFFIX,centauriglobal.com
   - DOMAIN-SUFFIX,api.globalgme.com
   - DOMAIN-KEYWORD,intlgame
-# > Auto Chess
+# > Auto Chess (com.dragonest.autochess.google)
   - DOMAIN-SUFFIX,dragonest.com
   - DOMAIN-SUFFIX,yeshen.com
   - DOMAIN-SUFFIX,xingzheai.cn
+# > CoDM (com.garena.game.codm)
+  - DOMAIN-SUFFIX,codm.garena.com
+  - DOMAIN-SUFFIX,connect.garena.com
+  - DOMAIN-SUFFIX,msdk.garena.com
+  - DOMAIN-SUFFIX,gxx.garenanow.com
+  - DOMAIN,cdn.wetest.qq.com
+  - DOMAIN-KEYWORD,codm
+# > Anti Cheat Expert (Tencent Games)
+  - DOMAIN-SUFFIX,anticheatexpert.com
+  - DOMAIN,asia.csoversea.mbgame.anticheatexpert.com
+  - DOMAIN-KEYWORD,anticheatexpert
+# > Arena of Valor (com.garena.game.kgid)
+  - DOMAIN-SUFFIX,kg.garena.co.id
+  - DOMAIN-SUFFIX,midas.garena.co.id
+  - DOMAIN-SUFFIX,iegg.garena.com
+  - DOMAIN-SUFFIX,cros.garena.com
+  - DOMAIN-SUFFIX,kgid.garenanow.com
+  - DOMAIN-SUFFIX,live.qcloud.com
+  - DOMAIN,cloud2.gsdk.proximabeta.com
+  - DOMAIN-KEYWORD,kgid
+  - DOMAIN-KEYWORD,aovtv
