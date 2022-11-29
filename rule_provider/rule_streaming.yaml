@@ -76,7 +76,6 @@ payload:
   # > Fox Now
   - DOMAIN-SUFFIX,fox.com
   - DOMAIN-SUFFIX,foxdcg.com
-  - DOMAIN-SUFFIX,uplynk.com
   
   # > Hulu
   - DOMAIN-SUFFIX,cws-hulu.conviva.com
@@ -90,7 +89,6 @@ payload:
   # > Hulu(フールー)
   - DOMAIN-SUFFIX,happyon.jp
   - DOMAIN-SUFFIX,hulu.jp
-  - DOMAIN-SUFFIX,prod.hjholdings.tv
   - DOMAIN-SUFFIX,streaks.jp
   - DOMAIN-SUFFIX,yb.uncn.jp
   
@@ -121,7 +119,7 @@ payload:
   - DOMAIN-SUFFIX,kktv.com.tw
   - DOMAIN,kktv-theater.kk.stream
   
-  # > letv
+  # > Letv
   - DOMAIN-SUFFIX,api.mob.app.letv.com
 
   # > Line TV
@@ -167,7 +165,6 @@ payload:
   - DOMAIN-SUFFIX,resso.com
 
 # > Anime
-  - DOMAIN-SUFFIX,anoboy.watch
   - DOMAIN-SUFFIX,neonime.co
   - DOMAIN-SUFFIX,gomunime.is
   - DOMAIN-SUFFIX,9anime.cz
@@ -205,6 +202,7 @@ payload:
   - DOMAIN-KEYWORD,gogoplay
   - DOMAIN-KEYWORD,gogoanime
   - DOMAIN-KEYWORD,9anime
+  - DOMAIN-KEYWORD,anoboy
 # > Niconico
   - DOMAIN-SUFFIX,dmc.nico
   - DOMAIN-SUFFIX,nicodic.jp
@@ -394,5 +392,4 @@ payload:
   - DOMAIN-SUFFIX,hzmk.site
   - DOMAIN-SUFFIX,like.video
   - DOMAIN-SUFFIX,likeevideo.com
-  - DOMAIN-KEYWORD,bigo.
-  - DOMAIN-KEYWORD,bigo-
+  - DOMAIN-KEYWORD,bigo

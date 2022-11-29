@@ -4,11 +4,8 @@ payload:
 # MOLA TV
 - DOMAIN-SUFFIX,mola.tv
 - DOMAIN-SUFFIX,cdn.mola.tv
-- DOMAIN,vod.cdn.mola.tv
 - DOMAIN,vod.cdn.mola.tv.akamaized.net
 - DOMAIN,api.sent.tv
-- DOMAIN,cdn01.mola.tv
-- DOMAIN,cdn02.mola.tv
 - DOMAIN,mola01.koicdn.com
 - DOMAIN-KEYWORD,mola
 # Netflix
@@ -65,7 +62,6 @@ payload:
 - DOMAIN-KEYWORD,spotify
 # Vidio
 - DOMAIN-SUFFIX,vidio.com
-- DOMAIN-SUFFIX,vidiocdn.com
 - DOMAIN-SUFFIX,prod.vidiocdn.com
 - DOMAIN-SUFFIX,secureswiftcontent.com
 - DOMAIN,license-global.pallycon.com
@@ -80,23 +76,23 @@ payload:
 - DOMAIN-KEYWORD,vidio-bein
 - DOMAIN-KEYWORD,vidio
 # VIU
-- DOMAIN-SUFFIX,viu.tv
 - DOMAIN-SUFFIX,viu.com
+- DOMAIN-SUFFIX,viu.tv
 - DOMAIN-SUFFIX,viuapi.io
-- DOMAIN,vuclipi-a.akamaihd.net
 - DOMAIN,viu-static.akamaized.net
-- DOMAIN,gcpvuclip-a.akamaihd.net
+- DOMAIN,vuclipi-a.akamaihd.net
 - DOMAIN,vuclip-eip2.akamaized.net
-- DOMAIN-KEYWORD,vuclip
+- DOMAIN,gcpvuclip-a.akamaihd.net
 - DOMAIN-KEYWORD,viu
+- DOMAIN-KEYWORD,vuclip
 # Beinsport
 - DOMAIN-SUFFIX,beinsports.com
 - DOMAIN-SUFFIX,beiniz.biz
-- DOMAIN,connect-id.beinsports.com
 - DOMAIN-KEYWORD,beinsports
 - DOMAIN-KEYWORD,bein
-# UseeTV
+# UseeTV + IndiHome
 - DOMAIN-SUFFIX,useetv.com
+- DOMAIN-SUFFIX,indihometv.com
 - DOMAIN-KEYWORD,useetv.com
 # DensTV
 - DOMAIN-SUFFIX,dens.tv
@@ -132,20 +128,22 @@ payload:
 - DOMAIN-SUFFIX,seulangatv.com
 - DOMAIN-KEYWORD,seulanga
 # Bilibili
-- DOMAIN-SUFFIX,hdslb.com
-- DOMAIN-SUFFIX,bilibili.tv
+- DOMAIN-SUFFIX,biliapi.com
+- DOMAIN-SUFFIX,biliapi.net
 - DOMAIN-SUFFIX,bilibili.com
+- DOMAIN-SUFFIX,bilibili.tv
 - DOMAIN-SUFFIX,biliintl.com
+- DOMAIN-SUFFIX,bilibilicomics.com
 - DOMAIN-SUFFIX,bilivideo.com
 - DOMAIN-SUFFIX,bstarstatic.com
-- DOMAIN-SUFFIX,bilibilicomics.com
+- DOMAIN-SUFFIX,hdslb.com
 - DOMAIN,s-bstarstatic.akamaized.net
 - DOMAIN,pic-bstarstatic.akamaized.net
 - DOMAIN,upos-hz-mirrorakam.akamaized.net
 - DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 - DOMAIN-KEYWORD,bstar
 - DOMAIN-KEYWORD,bilibili
-# Wiz Smart Gateway Philips
+# Philips Wiz Smart Gateway
 - DOMAIN-SUFFIX,wiz.world
 - DOMAIN-SUFFIX,wizconnected.com
 - DOMAIN,wizconnected.helpshift.com
