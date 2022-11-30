@@ -222,6 +222,8 @@ payload:
 # > Garena (Support)
   - DOMAIN,sg.voice.gcloudcs.com
   - DOMAIN,vn.voice.gcloudcs.com
+  - DOMAIN,sg.itopsdk.com
+  - DOMAIN,itop.qq.com
   - DOMAIN-KEYWORD,gcloudcs
   - DOMAIN-KEYWORD,gcloudsdk
   - DOMAIN-KEYWORD,nagcloudcs
@@ -458,6 +460,7 @@ payload:
   - DOMAIN-SUFFIX,msdk.garena.com
   - DOMAIN-SUFFIX,gxx.garenanow.com
   - DOMAIN,cdn.wetest.qq.com
+  - DOMAIN,hsg.tdm.qq.com
   - DOMAIN-KEYWORD,codm
 # > Anti Cheat Expert (Tencent Games)
   - DOMAIN-SUFFIX,anticheatexpert.com
