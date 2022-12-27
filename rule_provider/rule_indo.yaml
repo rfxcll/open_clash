@@ -90,10 +90,11 @@ payload:
 - DOMAIN-SUFFIX,beiniz.biz
 - DOMAIN-KEYWORD,beinsports
 - DOMAIN-KEYWORD,bein
-# UseeTV + IndiHome
+# UseeTV + IndiHome + MAXstream (Telkom Grup)
 - DOMAIN-SUFFIX,useetv.com
 - DOMAIN-SUFFIX,indihometv.com
-- DOMAIN-KEYWORD,useetv.com
+- DOMAIN-KEYWORD,useetv
+- DOMAIN-KEYWORD,telkomsel
 # DensTV
 - DOMAIN-SUFFIX,dens.tv
 # MNCnow
