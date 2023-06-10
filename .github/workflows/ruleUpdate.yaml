@@ -14,9 +14,9 @@ jobs:
         working-directory: ./rule_provider
         run: |
           echo "Downloading oisd full source list..."
-          curl -s https://big.oisd.nl -o rule_basicads.yaml
+          curl -s https://big.oisd.nl/domainswild -o rule_basicads.yaml
           sed -i '/^$/d' rule_basicads.yaml
-          sed -i '4,9d' rule_basicads.yaml
+          sed -i '4,10d' rule_basicads.yaml
           #start word
           sed -ie '/^#/! s/*./- "+./' rule_basicads.yaml
           #end word
