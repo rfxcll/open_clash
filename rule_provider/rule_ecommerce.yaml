@@ -46,10 +46,12 @@ payload:
 
 # > Tokopedia
 # Main Site
-  - DOMAIN-SUFFIX,tokopedia.link
   - DOMAIN-SUFFIX,tokopedia.com
   - DOMAIN-SUFFIX,tokopedia.net
   - DOMAIN-KEYWORD,tokopedia
+# Short Link
+  - DOMAIN,tokopedia.link
+  - DOMAIN,tokopedia.app.link
 # Resource 
   - DOMAIN,ls.cdn-gw-dv.vip
   - DOMAIN,tokopedia.gw-dv.vip.gw-dv.vip
