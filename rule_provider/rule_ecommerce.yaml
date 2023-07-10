@@ -1,0 +1,78 @@
+# https://idea.or.id/directory-anggota
+payload:
+# > Lazada
+# Main Site
+  - DOMAIN-SUFFIX,lazada.com
+  - DOMAIN-SUFFIX,lazada.co.id
+  - DOMAIN-SUFFIX,lazada.sg
+  - DOMAIN-SUFFIX,lazcdn.com
+  - DOMAIN-KEYWORD,lazada
+# IP Alibaba (US) Technology Co., Ltd.
+  - IP-CIDR,47.246.158.0/23
+# Resource
+  - DOMAIN,dinamicx.alibabausercontent.com
+# AliCDN
+  - DOMAIN,d.alicdn.com
+  - DOMAIN,g.alicdn.com
+  - DOMAIN,hudong.alicdn.com
+  - DOMAIN,laz-dorangesource.alicdn.com
+  - DOMAIN,laz-g-cdn.alicdn.com
+  - DOMAIN,laz-img-cdn.alicdn.com
+  - DOMAIN,o.alicdn.com
+  - DOMAIN,ossgw.alicdn.com
+  - DOMAIN,t.alicdn.com
+# Alipay
+  - DOMAIN,irisk-id-l.alipay.com
+# Aliyun
+  - DOMAIN,lazada-wallet.oss-ap-southeast-1.aliyuncs.com
+  - DOMAIN,retcode-sg-lazada.arms.aliyuncs.com
+# Slatic
+  - DOMAIN,gcp-img.slatic.net
+  - DOMAIN,icms-image.slatic.net
+  - DOMAIN,id-live-01.slatic.net
+  - DOMAIN,lzd-bigfile-g.slatic.net
+  - DOMAIN,lzd-img-global.slatic.net
+  - DOMAIN,sg-live-01.slatic.net
+# Taobao
+  - DOMAIN,acs.m.taobao.com
+  - DOMAIN,audid-api-sg.taobao.com
+  - DOMAIN,sjarvis.taobao.com
+  - DOMAIN,xjp-jmacs.m.taobao.com
+  - DOMAIN,xjp-msgacs.m.taobao.com
+# UCweb
+  - DOMAIN,gjapplog.ucweb.com
+  - DOMAIN,px-intl.ucweb.com
+  - DOMAIN,wpk-auth.ucweb.com
+
+# > Tokopedia
+# Main Site
+  - DOMAIN-SUFFIX,tokopedia.link
+  - DOMAIN-SUFFIX,tokopedia.com
+  - DOMAIN-SUFFIX,tokopedia.net
+  - DOMAIN-KEYWORD,tokopedia
+# Resource 
+  - DOMAIN,ls.cdn-gw-dv.vip
+  - DOMAIN,tokopedia.gw-dv.vip.gw-dv.vip
+
+# > Shopee
+# Main Site
+  - DOMAIN-SUFFIX,shopee.co.id
+  - DOMAIN-SUFFIX,shopee.com
+  - DOMAIN-SUFFIX,shopee.io
+  - DOMAIN-SUFFIX,shopee.sg
+  - DOMAIN-SUFFIX,shopeemobile.com
+  - DOMAIN-KEYWORD,shopee
+# SHOPEE SINGAPORE PRIVATE LIMITED  
+  - IP-CIDR,143.92.75.0/2
+# Short Link
+  - DOMAIN-SUFFIX,shope.ee
+  - DOMAIN-SUFFIX,shp.ee
+# Shopee Pay
+  - DOMAIN-SUFFIX,airpay.co.id
+  - DOMAIN-SUFFIX,shopeepay.co.id
+# Resource
+  - DOMAIN,cdngarenanow-a.akamaihd.net
+  - DOMAIN,down-id.img.susercontent.com
+  - DOMAIN,down-ws-id.img.susercontent.com
+  - DOMAIN,qplay-sp-ix.vod.susercontent.com
+  - DOMAIN,spm.susercontent.com
