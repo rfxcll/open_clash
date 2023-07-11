@@ -35,6 +35,7 @@ payload:
   - DOMAIN,sg-live-01.slatic.net
 # Taobao
   - DOMAIN,acs.m.taobao.com
+  - DOMAIN,amdc.m.taobao.com
   - DOMAIN,audid-api-sg.taobao.com
   - DOMAIN,sjarvis.taobao.com
   - DOMAIN,xjp-jmacs.m.taobao.com
@@ -67,8 +68,8 @@ payload:
 # SHOPEE SINGAPORE PRIVATE LIMITED  
   - IP-CIDR,143.92.75.0/2
 # Short Link
-  - DOMAIN-SUFFIX,shope.ee
-  - DOMAIN-SUFFIX,shp.ee
+  - DOMAIN,shope.ee
+  - DOMAIN,shp.ee
 # Shopee Pay
   - DOMAIN-SUFFIX,airpay.co.id
   - DOMAIN-SUFFIX,shopeepay.co.id
