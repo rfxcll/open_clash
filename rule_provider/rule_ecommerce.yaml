@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX,lazcdn.com
   - DOMAIN-KEYWORD,lazada
 # IP Alibaba (US) Technology Co., Ltd.
-  - IP-CIDR,47.246.158.0/23
+#  - IP-CIDR,47.246.158.0/23
 # Resource
   - DOMAIN,dinamicx.alibabausercontent.com
 # AliCDN
@@ -66,7 +66,7 @@ payload:
   - DOMAIN-SUFFIX,shopeemobile.com
   - DOMAIN-KEYWORD,shopee
 # SHOPEE SINGAPORE PRIVATE LIMITED  
-  - IP-CIDR,143.92.75.0/2
+#  - IP-CIDR,143.92.75.0/2
 # Short Link
   - DOMAIN,shope.ee
   - DOMAIN,shp.ee
